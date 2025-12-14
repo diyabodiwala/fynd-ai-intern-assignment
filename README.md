@@ -37,13 +37,6 @@ Three prompting strategies were implemented and iteratively improved:
 
 Each iteration was designed to improve output reliability, structured formatting, and prediction accuracy.
 
-### Output Format (Enforced per Prediction)
-```json
-{
-  "predicted_stars": 4,
-  "explanation": "Brief reasoning for the assigned rating."
-}
-
 ### Prompting Approaches
 
 Three prompting strategies were implemented and iteratively refined to improve prediction accuracy, output reliability, and structured JSON compliance:
