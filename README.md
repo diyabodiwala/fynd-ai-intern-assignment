@@ -8,14 +8,12 @@ This repository contains my submission for the **Fynd AI Intern Take-Home Assess
 ---
 
 ## 📁 Repository Structure
-
-├── task1_rating_prediction.ipynb # Task 1 notebook (prompting + evaluation)
+├── task1_rating_prediction.ipynb # Task 1: Prompting + evaluation notebook
 ├── streamlit_app.py # Task 2: Combined User & Admin dashboard
 ├── llm_utils.py # LLM helper functions
 ├── data_store.json # Shared data store for dashboards
-├── requirements.txt
-└── README.md
-
+├── requirements.txt # Python dependencies
+└── README.md # Project documentation
 
 ---
 
